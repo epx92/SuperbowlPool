@@ -1,0 +1,2 @@
+# SuperbowlPool
+ Decentralized Pooled Bets
